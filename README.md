@@ -5,4 +5,4 @@
 [![Package Control total downloads](https://img.shields.io/badge/Gender-Junior_Front_End_Developer-yellow)]()
 
 
-[![](https://img.shields.io/badge/TG-svinerus-blue)](https://t.me/ave_kucher)
+[![](https://img.shields.io/badge/TG-v_kucherenko-blue)](https://t.me/ave_kucher)
