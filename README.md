@@ -6,6 +6,6 @@
 
 [![Package Control total downloads](https://img.shields.io/badge/Name-Vlad-ff69b4)]()
 [![Package Control total downloads](https://img.shields.io/badge/Sex-Yes-green)]()
-[![Package Control total downloads](https://img.shields.io/badge/Gender-Front_End_Developer-yellow)]()
+[![Package Control total downloads](https://img.shields.io/badge/Gender-SoftwareEngineer-yellow)]()
 
 [![](https://img.shields.io/badge/TG-vlad_kucherenko-blue)](https://t.me/vlad_kucherenko)
